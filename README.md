@@ -19,7 +19,7 @@
 
 ### 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,c,cpp,,java,spring,MySQL,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,nextjs,python,django,c,cpp,java,spring,MySQL,git,github,vscode,linux" />
 </p>
 
 ---
@@ -39,16 +39,6 @@
   <a href="mailto:panditdigvijay2003@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
----
-
-### 🎵 **Now Playing**
-[![Spotify](https://novatorem-YourGitHubUsername.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
-
----
-
-<p align="center">
-  <img src="https://github.com/YourGitHubUsername/YourGitHubUsername/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
