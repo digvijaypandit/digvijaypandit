@@ -27,7 +27,6 @@
 ---
 
 ## 📊 **GitHub Stats**
-> Replace `digvijaypandit` with your GitHub username.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=digvijaypandit&show_icons=true&theme=radical" width="400"/>
@@ -48,7 +47,7 @@
 ---
 
 ## 🏆 **GitHub Trophies**
-> Replace `digvijaypandit` with your actual GitHub username.
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=digvijaypandit&theme=radical&no-frame=true&no-bg=true" />
