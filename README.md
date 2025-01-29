@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=22&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer!;I+love+learning+new+technologies!">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,git,github,vscode,linux" />
 </p>
 
 ---
