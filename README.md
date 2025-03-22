@@ -18,7 +18,6 @@
 ---
 
 ## 🛠️ **Tech Stack**
-> Replace these icons with the technologies you use most.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,mongodb,nextjs,python,django,java,spring,php,git,github,vscode,linux" />
