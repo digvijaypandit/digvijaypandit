@@ -39,8 +39,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/digvijaypandit"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/DigvijayPandit_"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter"></a>
-  <a href="https://dev.to/yourprofile"><img src="https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=instagram"></a>
   <a href="mailto:your-panditdigvijay2003@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.instagram.com/digvijaykpandit/"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ---
